@@ -38,7 +38,7 @@ The model is built upon the ResNet-50 architecture, known for its strong feature
 
 Here are the key results from training the model after 20 epochs:
 
-  - Train Loss: 5.1421, Train Acc: 0.1483
-  - Val Loss: 5.3689, Val Acc: 0.0959
+  - Train Loss: 0.1494 Train Acc: 0.9925
+  - Val Loss: 0.5166 Val Acc: 0.8855
 
 These results demonstrate the model's progress in learning to identify individuals as training advances. The increasing accuracy on the validation set indicates the model's improved performance.
